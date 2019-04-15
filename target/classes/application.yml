@@ -1,0 +1,10 @@
+spring:
+ datasource:
+  url: jdbc:mysql://localhost:3306/pradeep?createDatabaseIfNotExist=true
+  username: root
+  password: 198827
+  driver-class-name: com.mysql.jdbc.Driver
+ jpa:
+  hibernate:
+   ddl-auto: create
+  

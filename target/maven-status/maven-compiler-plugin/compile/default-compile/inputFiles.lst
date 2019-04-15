@@ -1,0 +1,8 @@
+/home/user/pradeep/sts4/sms-web/src/main/java/com/pradeep/sms/controller/StudentController.java
+/home/user/pradeep/sts4/sms-web/src/main/java/com/pradeep/sms/model/Telephone.java
+/home/user/pradeep/sts4/sms-web/src/main/java/com/pradeep/sms/model/Address.java
+/home/user/pradeep/sts4/sms-web/src/main/java/com/pradeep/sms/service/StudentServiceImpl.java
+/home/user/pradeep/sts4/sms-web/src/main/java/com/pradeep/sms/service/StudentService.java
+/home/user/pradeep/sts4/sms-web/src/main/java/com/pradeep/sms/StudentServiceApplication.java
+/home/user/pradeep/sts4/sms-web/src/main/java/com/pradeep/sms/model/Student.java
+/home/user/pradeep/sts4/sms-web/src/main/java/com/pradeep/sms/repository/StudentRepository.java

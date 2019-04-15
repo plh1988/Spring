@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Pradeep
+Build-Jdk: 10.0.1
+Implementation-Title: sms-web
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.pradeep.sms
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/student-service
+Created-By: Maven Integration for Eclipse
+
